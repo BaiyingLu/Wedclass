@@ -1,1 +1,2 @@
 # Wedclass
+learn githush first
